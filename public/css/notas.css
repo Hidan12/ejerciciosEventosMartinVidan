@@ -1,0 +1,12 @@
+.height-card{
+  height: 200px;  
+}
+.rayado{
+    text-decoration: line-through;
+}
+.change-opacity{
+  opacity: 0.5;
+}
+.alto-text{
+  height: 130px !important; 
+}
